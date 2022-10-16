@@ -2,9 +2,12 @@
    
  🏫I’m currently learning python🐍 & machine learning
   I’m looking to collaborate on python projects
+		
   
   
-  
+  Thoughts:
+		-Learning should never be stopped.
+		-Always do better for the others
   
  How to reach me ...
 
