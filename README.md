@@ -1,5 +1,4 @@
-		santu-naam nahi kaam yad rakhna
-		---------------------------------------
+ santaram chaudhary(54antu)
    
  🏫I’m currently learning python🐍 & machine learning
   I’m looking to collaborate on python projects
