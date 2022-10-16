@@ -1,7 +1,10 @@
- ![EmojiEmojiHelloGIF](https://user-images.githubusercontent.com/101068062/196023939-0ad120fb-5ed4-4859-934a-d137c44676e6.gif)
- Hi, I’m @54ntu
- 🏫 I’m currently learning python🐍 & machine learning
+		santu-naam nahi kaam yad rakhna
+		---------------------------------------
+   
+ 🏫I’m currently learning python🐍 & machine learning
   I’m looking to collaborate on python projects
+  
+  
   
   
  How to reach me ...
