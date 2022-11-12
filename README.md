@@ -1,15 +1,20 @@
- santaram chaudhary(54antu)
+<h2> Mr. santu</h2>
    
- 🏫I’m currently learning python🐍 & machine learning
-  I’m looking to collaborate on python projects
+ <li type='square'>🏫I’m currently learning python🐍 & machine learning</li>
+ <li type='square'> I’m looking to collaborate on python projects</li><br/>
 		
   
-  
-  Thoughts:
-		-Learning should never be stopped.
-		-Always do better for the others
-  
- How to reach me ...
+  <h5>Thoughts:</h5>
+ <li type= 'circle'>Learning should never be stopped.</li>
+ <li type='circle'>Always do better for the others</li>
+ <li type='circle'>Always self motivated.</li>
+ <br/>
+ 
+ 
+ <h4>connect with me  </h4><img src=''
+ https://www.facebook.com/santaram.chaudhary.792
+		
+ 
 
 <!---
 54ntu/54ntu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
