@@ -2,6 +2,8 @@
    
  <li type='square'>🏫I’m currently learning python🐍 & machine learning</li>
  <li type='square'> I’m looking to collaborate on python projects</li><br/>
+ 
+```Passionate on about machine learning and AI```
 		
   
   <h5>Thoughts:</h5>
@@ -14,7 +16,11 @@
  <h4>connect with me  </h4>
  
 https://github.com/54ntu<br/>
-https://www.facebook.com/santaram.chaudhary.792
+https://www.facebook.com/santaram.chaudhary.792<br/>
+
+
+
+		
 		
  
 
